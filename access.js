@@ -1,4 +1,5 @@
-//Not my code but no one knows whose code this is
+//By Rainbow Studios - https://discord.gg/yPN49wdqMc
+//By Tejas Lamba#1924
 const DI = window.DiscordInternals;
 const hasLib = !!(DI && DI.versionCompare && DI.versionCompare(DI.version || "", "1.9") >= 0);
     const WebpackModules = hasLib && DI.WebpackModules || (() => {
@@ -42,3 +43,5 @@ const hasLib = !!(DI && DI.versionCompare && DI.versionCompare(DI.version || "",
     })();
 t = WebpackModules.findByUniqueProperties(["isDeveloper"]);
 Object.defineProperty(t,"isDeveloper",{get:_=>1,set:_=>_,configurable:true});
+//By Rainbow Studios - https://discord.gg/yPN49wdqMc
+//By Tejas Lamba#1924
