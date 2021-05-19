@@ -1,8 +1,10 @@
+
 # Discord-experiments-access
 By Rainbow Studios - 
 https://discord.gg/yPN49wdqMc
 
 # proof
+![Capture1](https://user-images.githubusercontent.com/73745640/118752242-59644400-b880-11eb-807f-9e6b44975774.PNG)
 https://cdn.discordapp.com/attachments/838640940407193610/844267245630259200/Capture1.PNG
 # How To Use This and What do i need to use this ?
 you need a pc or a mac<br>
